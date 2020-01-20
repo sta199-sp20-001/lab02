@@ -1,0 +1,96 @@
+---
+title: "Lab 02 - Data wrangling and visualization"
+subtitle: "Due: Friday, Jan 31 at 11:59pm"
+author: ""
+date: ""
+output:
+  html_document: default
+  pdf_document: default
+---
+
+*****
+
+You may knit this document to see what the template looks like. 
+**When turning a document in on Gradescope, remember to `Knit to PDF`** and 
+submit that PDF document. For Lab 02, we are not telling you when to commit -- 
+it is up to you to commit at appropriate intervals with meaningful commit 
+messages. Be sure to commit **at least three times** during this lab.
+
+Delete everything between the 5 asterisks in your final document. Also, delete
+the 5 asterisks.
+
+*****
+
+## Packages
+
+```{r, warning = FALSE, message = FALSE}
+library(tidyverse)
+library(fivethirtyeight)
+```
+
+## Exercise 1
+
+Type your answer to Exercise 1 here.
+
+```{r}
+### In this chunk, implement your choice. 
+### Name your chunk and then delete this comment.
+
+```
+
+## Exercise 2
+
+```{r}
+### In this chunk, implement the code for Exercise 2.
+### Name your chunk and then delete this comment.
+
+```
+
+## Exercise 3
+
+Type your answer to Exercise 3 here. There is no need for `R` code.
+
+## Exercise 4
+
+Add code and/or narrative as needed.
+
+## Exercise 5
+
+Add code and/or narrative as needed.
+
+## Exercise 6
+
+Add code and/or narrative as needed.
+
+## Exercise 7
+
+Add code and/or narrative as needed.
+
+## Exercise 8
+
+Add code and/or narrative as needed.
+
+## Exercise 9
+
+Add code and/or narrative as needed.
+
+## Exercise 10
+
+Add code and/or narrative as needed.
+
+*****
+
+## Final checks
+
+1. Did you commit at least three times?
+2. Do all code chunks have names?
+3. Are your figures appropriately sized?
+4. Does any resulting data frame show more than 20 rows? You should never
+   print the entire data frame when it has a large number of rows.
+5. Is all code and narrative following the 80 characters rule?
+6. Did you proofread your narrative and run spell checker (button next to save)? 
+
+*****
+
+
+
