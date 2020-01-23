@@ -4,8 +4,8 @@ subtitle: "Due: Friday, Jan 31 at 11:59pm"
 author: ""
 date: ""
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 *****
@@ -23,7 +23,7 @@ the 5 asterisks.
 
 ## Packages
 
-```{r, warning = FALSE, message = FALSE}
+```{r packages, warning = FALSE, message = FALSE}
 library(tidyverse)
 library(fivethirtyeight)
 ```
@@ -33,9 +33,8 @@ library(fivethirtyeight)
 Type your answer to Exercise 1 here.
 
 ```{r}
-### In this chunk, implement your choice. 
+### In this chunk, implement the code for Exercise 1.
 ### Name your chunk and then delete this comment.
-
 ```
 
 ## Exercise 2
@@ -77,6 +76,7 @@ Add code and/or narrative as needed.
 ## Exercise 10
 
 Add code and/or narrative as needed.
+
 
 *****
 
